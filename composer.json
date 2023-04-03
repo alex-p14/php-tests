@@ -1,0 +1,12 @@
+{
+    "name": "sasha/php-tests",
+    "description": "php tests project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "alex-p14@bk.ru"
+        }
+    ],
+    "require": {}
+}
