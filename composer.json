@@ -2,6 +2,9 @@
     "name": "sasha/php-tests",
     "description": "php tests project",
     "license": "proprietary",
+    "autoload": {
+	    "files": ["src/StringUtils.php"]
+    },
     "authors": [
         {
             "name": "alex",
